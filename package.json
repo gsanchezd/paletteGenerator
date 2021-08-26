@@ -2,7 +2,7 @@
   "dependencies": {
     "pngjs": "^6.0.0"
   },
-  "name": "@gosanchez/palette-reader",
+  "name": "palette-reader",
   "version": "0.0.1",
   "description": "Read the palette from a png file",
   "main": "lib/paletteReader.js",
