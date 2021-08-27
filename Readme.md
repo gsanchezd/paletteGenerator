@@ -1,6 +1,6 @@
 Usage:
 
 ```js
-import paletteReader from "@gosanchez/palette-reader"
+import paletteReader from "palette-reader"
 paletteReader("example.png", (data) => console.log(data))
 ```

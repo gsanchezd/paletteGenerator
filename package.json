@@ -1,9 +1,10 @@
 {
   "dependencies": {
+    "palette-reader": "^0.0.1",
     "pngjs": "^6.0.0"
   },
   "name": "palette-reader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Read the palette from a png file",
   "main": "lib/paletteReader.js",
   "type": "module",
@@ -15,6 +16,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gonzalo Sánchez",
-  "license": "ISC",
-  "devDependencies": {}
+  "license": "ISC"
 }
